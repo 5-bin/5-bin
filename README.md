@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Bin
 
+<img src="./images/avatar.jpg" width="150">
+
 🎓 Computer Science Student | 💻 Backend Development | 🤖 AI & AI Agent
 
 欢迎来到我的 GitHub 主页！
