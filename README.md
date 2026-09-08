@@ -102,7 +102,6 @@
 - 计算机网络
 - 计算机组成原理
 - 数据库
-- Linux
 - Git / GitHub
 
 这些基础知识是我未来进行后端开发和 AI 应用开发的重要基础。
@@ -112,23 +111,6 @@
 # 🚀 Practice & Projects
 
 虽然目前参与的大型项目和竞赛经历还比较有限，但我正在通过课程实验、算法练习和个人项目逐步积累实践经验。
-
-## 🖥️ Linux / Operating System Experiments
-
-通过 Linux 环境完成操作系统相关实验，学习：
-
-- 进程创建
-- `fork()`
-- `execve()`
-- `waitpid()`
-- Linux 信号机制
-- `sigaction`
-- 进程间协作
-- Shell / Linux 系统调用
-
-通过实验进一步理解操作系统中进程管理和系统调用的工作机制。
-
----
 
 ## 🧮 Algorithm Practice
 
@@ -177,7 +159,6 @@
 - Java 基础
 - Python 基础
 - 数据结构与算法
-- Linux 基础
 - 操作系统基础
 - 计算机组成原理
 - Git / GitHub 基础
@@ -278,7 +259,6 @@ AI Agent 是我未来重点关注的方向。
 - MySQL
 - Redis
 - Spring Boot
-- Linux
 - 计算机网络
 - Git / GitHub
 
@@ -299,7 +279,6 @@ AI Agent 是我未来重点关注的方向。
 - Java 后端开发
 - 数据库
 - 分布式系统
-- Linux
 - Docker
 - AI Agent
 - LLM 应用开发
@@ -321,7 +300,6 @@ AI Agent 是我未来重点关注的方向。
 - 独立完成中小型项目
 - 熟练使用 Java 后端技术栈
 - 掌握常见数据库和中间件
-- 具备 Linux 环境开发能力
 - 掌握 Git 协作流程
 - 了解大模型和 AI Agent 应用开发
 - 具备一定的系统设计和工程实践能力
