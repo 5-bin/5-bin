@@ -4,6 +4,12 @@
 
 🎓 Computer Science Student
 
+## 🌐 My Homepage
+
+<a href="https://5-bin.github.io/my-homepage/" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Homepage-Visit-blue?style=for-the-badge" alt="My Homepage">
+</a>
+
 欢迎来到我的 GitHub 主页！
 
 我是一名计算机专业本科生，目前正在系统学习计算机基础知识、编程语言以及软件开发相关技术。
